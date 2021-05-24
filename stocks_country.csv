@@ -1,0 +1,101 @@
+Rank,Name,Market Cap,Price,Today,Price (30 days),Country,ticker,right_ticker
+1,Apple  AAPL,$2.298 T,$136.91,0.11%,,🇺🇸 USA,AAPL,False
+2,Microsoft  MSFT,$1.829 T,$242.47,0.11%,,🇺🇸 USA,MSFT,False
+3,Amazon  AMZN,$1.673 T,"$3,323",-0.87%,,🇺🇸 USA,AMZN,False
+4,Alphabet (Google)  GOOG,$1.408 T,"$2,093",-0.24%,,🇺🇸 USA,GOOG,False
+5,Tesla  TSLA,$828.75 B,$863.42,1.31%,,🇺🇸 USA,TSLA,False
+6,Facebook  FB,$759.13 B,$266.58,-0.57%,,🇺🇸 USA,FB,False
+7,Berkshire Hathaway BRK-A,$557.31 B,"$357,100",0.76%,,🇺🇸 USA,BRK-A,False
+8,Visa  V,$456.16 B,$206.89,-0.90%,,🇺🇸 USA,V,False
+9,Johnson & Johnson  JNJ,$434.15 B,$164.92,0.29%,,🇺🇸 USA,JNJ,False
+10,JPMorgan Chase  JPM,$427.34 B,$140.14,1.57%,,🇺🇸 USA,JPM,False
+1,Tencent  TCEHY,$910.51 B,$95.10,-0.31%,,🇨🇳 China,TCEHY,False
+2,Alibaba  BABA,$717.64 B,$262.59,-1.16%,,🇨🇳 China,BABA,False
+3,Kweichow Moutai  600519.SS,$478.29 B,$380.75,3.70%,,🇨🇳 China,600519.SS,False
+4,Meituan-Dianping  MPNGF,$311.58 B,$52.85,2.20%,,🇨🇳 China,MPNGF,False
+6,Pinduoduo  PDD,$230.86 B,$188.26,-4.03%,,🇨🇳 China,PDD,False
+7,Ping An Insurance  PNGAY,$218.64 B,$23.43,-0.97%,,🇨🇳 China,PNGAY,False
+9,Wuliangye Yibin  000858.SZ,$198.24 B,$51.07,2.97%,,🇨🇳 China,000858.SZ,False
+10,China Construction Bank  CICHY,$193.29 B,$15.27,-0.59%,,🇨🇳 China,CICHY,False
+1,Toyota  TM,$212.66 B,$152.93,1.37%,,🇯🇵 Japan,TM,False
+2,SoftBank  SFTBF,$160.11 B,$94.00,9.92%,,🇯🇵 Japan,SFTBF,False
+3,Sony  SNE,$141.87 B,$115.62,-0.93%,,🇯🇵 Japan,SNE,False
+4,Keyence  KYCCF,$129.59 B,$540.00,0.53%,,🇯🇵 Japan,KYCCF,False
+5,NTT Docomo  NTDMF,$122.47 B,$37.45,0.00%,,🇯🇵 Japan,NTDMF,False
+6,Nippon Telegraph & Telephone  NPPXF,$96.40 B,$26.90,4.79%,,🇯🇵 Japan,NPPXF,False
+7,Fast Retailing  FRCOF,$89.17 B,$868.00,0.00%,,🇯🇵 Japan,FRCOF,False
+9,Nidec  NNDNF,$79.09 B,$136.90,2.28%,,🇯🇵 Japan,NNDNF,False
+10,Recruit  RCRRF,$77.43 B,$48.00,1.39%,,🇯🇵 Japan,RCRRF,False
+1,SAP  SAP,$156.69 B,$131.50,0.93%,,🇩🇪 Germany,SAP,False
+2,Siemens  SIEGY,$127.52 B,$79.84,-0.68%,,🇩🇪 Germany,SIEGY,False
+3,Volkswagen  VOW3.DE,$105.81 B,$196.78,-0.34%,,🇩🇪 Germany,VOW3.DE,False
+4,Allianz  ALIZF,$97.15 B,$230.39,-2.27%,,🇩🇪 Germany,ALIZF,False
+5,Deutsche Telekom  DTE.DE,$85.36 B,$18.00,-0.73%,,🇩🇪 Germany,DTE.DE,False
+6,Daimler  DAI.DE,$84.95 B,$79.41,-0.86%,,🇩🇪 Germany,DAI.DE,False
+7,BASF  BFFAF,$74.54 B,$80.46,0.00%,,🇩🇪 Germany,BFFAF,False
+8,Merck KGaA  MRK.DE,$74.08 B,$170.40,-0.42%,,🇩🇪 Germany,MRK.DE,False
+9,Bayer  BAYZF,$65.47 B,$66.92,-0.56%,,🇩🇪 Germany,ADDDF,False
+10,Adidas  ADDDF,$65.44 B,$339.60,0.18%,,🇩🇪 Germany,BAYZF,False
+3,HDFC Bank  HDB,$121.49 B,$82.50,0.67%,,🇮🇳 India,HDB,False
+4,Infosys  INFY,$75.39 B,$17.96,1.87%,,🇮🇳 India,INFY,False
+7,ICICI Bank  IBN,$58.45 B,$17.65,0.51%,,🇮🇳 India,IBN,False
+1,Linde  LIN,$135.06 B,$257.34,-0.01%,,🇬🇧 UK,LIN,False
+2,Astrazeneca  AZN,$131.43 B,$50.06,0.66%,,🇬🇧 UK,AZN,False
+3,HSBC  HSBC,$109.23 B,$26.83,0.34%,,🇬🇧 UK,HSBC,False
+4,Rio Tinto  RIO,$100.12 B,$80.29,2.31%,,🇬🇧 UK,RIO,False
+5,Diageo  DEO,$96.70 B,$163.92,0.68%,,🇬🇧 UK,DEO,False
+6,GlaxoSmithKline  GSK,$87.57 B,$35.46,0.57%,,🇬🇧 UK,GSK,False
+7,British American Tobacco  BTI,$84.28 B,$37.43,0.51%,,🇬🇧 UK,BTI,False
+8,BP  BP,$73.20 B,$22.03,5.86%,,🇬🇧 UK,BP,False
+9,London Stock Exchange  LS4C.F,$62.61 B,$133.90,1.83%,,🇬🇧 UK,LS4C.F,False
+10,Reckitt Benckiser  RBGPF,$62.19 B,$87.77,3.93%,,🇬🇧 UK,RBGPF,False
+1,LVMH  LVMUY,$320.42 B,$127.17,-0.78%,,🇫🇷 France,LVMUY,False
+2,L'Oréal  OR.PA,$208.96 B,$373.24,0.39%,,🇫🇷 France,OR.PA,False
+3,Sanofi  SNY,$122.26 B,$48.63,0.87%,,🇫🇷 France,SNY,False
+4,Hermès  HESAF,$113.44 B,"$1,089",-0.58%,,🇫🇷 France,HESAF,False
+5,Total  TOT,$111.41 B,$43.51,2.81%,,🇫🇷 France,TOT,False
+6,Dior  CHDRF,$98.85 B,$537.00,0.00%,,🇫🇷 France,CHDRF,False
+7,Kering  KER.PA,$83.49 B,$668.55,1.32%,,🇫🇷 France,KER.PA,False
+8,Schneider Electric  SBGSF,$83.31 B,$152.25,0.50%,,🇫🇷 France,SBGSF,False
+9,Air Liquide  AI.PA,$77.94 B,$165.09,0.04%,,🇫🇷 France,AI.PA,False
+10,EssilorLuxottica  ESLOF,$68.97 B,$163.02,4.39%,,🇫🇷 France,ESLOF,False
+1,Vale  VALE,$90.54 B,$17.65,2.26%,,🇧🇷 Brazil,VALE,False
+2,Petrobras  PBR,$68.07 B,$10.61,-4.16%,,🇧🇷 Brazil,PBR,False
+3,Itaú Unibanco  ITUB,$47.96 B,$5.13,-1.91%,,🇧🇷 Brazil,ITUB,False
+4,Ambev  ABEV,$43.71 B,$2.83,-3.08%,,🇧🇷 Brazil,ABEV,False
+5,Banco Bradesco  BBD,$39.08 B,$4.76,-1.65%,,🇧🇷 Brazil,BBD,False
+6,WEG ON  WEGE3.SA,$33.48 B,$16.14,0.00%,,🇧🇷 Brazil,WEGE3.SA,False
+7,Banco Santander Brasil  BSBR,$27.73 B,$7.52,-2.84%,,🇧🇷 Brazil,BSBR,False
+8,StoneCo  STNE,$27.29 B,$88.58,3.35%,,🇧🇷 Brazil,STNE,False
+9,XP Inc.  XP,$26.88 B,$48.73,0.37%,,🇧🇷 Brazil,XP,False
+10,B3  B3SA3.SA,$23.90 B,$11.80,0.00%,,🇧🇷 Brazil,B3SA3.SA,False
+1,Enel  ENLAY,$104.08 B,$10.19,0.59%,,🇮🇹 Italy,ENLAY,False
+2,Ferrari  RACE,$51.41 B,$208.68,2.96%,,🇮🇹 Italy,RACE,False
+3,Intesa Sanpaolo  ISNPY,$48.86 B,$15.27,2.14%,,🇮🇹 Italy,ISNPY,False
+4,ENI  E,$37.06 B,$21.20,2.46%,,🇮🇹 Italy,E,False
+7,Snam  SNMRF,$17.68 B,$5.38,0.00%,,🇮🇹 Italy,SNMRF,False
+8,Prada  PRDSF,$16.04 B,$5.98,0.00%,,🇮🇹 Italy,PRDSF,False
+1,Shopify  SHOP,$164.13 B,"$1,345",4.45%,,🇨🇦 Canada,SHOP,False
+2,Royal Bank Of Canada  RY,$119.47 B,$84.09,0.68%,,🇨🇦 Canada,RY,False
+3,Toronto Dominion Bank  TD,$106.89 B,$58.97,0.91%,,🇨🇦 Canada,TD,False
+4,Canadian National Railway  CNI,$75.18 B,$106.37,0.25%,,🇨🇦 Canada,CNI,False
+5,Enbridge  ENB,$72.38 B,$35.81,1.82%,,🇨🇦 Canada,ENB,False
+6,Scotiabank  BNS,$67.21 B,$55.59,1.35%,,🇨🇦 Canada,BNS,False
+7,Brookfield Asset Management  BAM,$62.11 B,$41.22,0.76%,,🇨🇦 Canada,BAM,False
+8,Bank of Montreal  BMO,$49.53 B,$76.79,0.20%,,🇨🇦 Canada,BMO,False
+9,Canadian Pacific Railway  CP,$47.14 B,$355.43,-0.18%,,🇨🇦 Canada,CP,False
+10,lululemon athletica  LULU,$44.27 B,$339.71,1.69%,,🇨🇦 Canada,LULU,False
+5,ICBC  1398.HK,$266.72 B,$0.62,-0.82%,,🇨🇳 China,601398.SHH,True
+8,CM Bank  3968.HK,$213.91 B,$8.23,0.71%,,🇨🇳 China,600036.SHH,True
+8,Chugai Pharmaceutical  4519.T,$83.46 B,$50.81,-1.42%,,🇯🇵 Japan,CHGCY,True
+1,Reliance Industries  RELIANCE.NS,$181.45 B,$26.83,0.24%,,🇮🇳 India,RELIANCE.BSE,True
+2,Tata  TCS.NS,$161.20 B,$43.58,-1.16%,,🇮🇳 India,TATASTEEL.BSE,True
+5,Hindustan Unilever  HINDUNILVR.NS,$71.45 B,$30.40,-0.91%,,🇮🇳 India,500696.BSE,True
+6,Housing Development Finance Corporation  HDFC.NS,$67.83 B,$37.68,0.50%,,🇮🇳 India,HDFC.BSE,True
+8,Kotak Mahindra Bank  KOTAKBANK.NS,$52.96 B,$26.74,-0.41%,,🇮🇳 India,500247.BSE,True
+9,State Bank of India  SBIN.NS,$48.33 B,$5.42,-0.57%,,🇮🇳 India,SBIN.BSE,True
+10,Bharti Airtel  BHARTIARTL.NS,$44.82 B,$8.22,0.28%,,🇮🇳 India,532454.BSE,True
+5,Generali  G.MI,$29.79 B,$18.98,0.10%,,🇮🇹 Italy,ARZGY,True
+6,UniCredit  UCG.MI,$23.43 B,$10.47,-0.01%,,🇮🇹 Italy,UNCRY,True
+9,Moncler  MONC.MI,$15.82 B,$62.61,0.62%,,🇮🇹 Italy,MONRY,True
+10,Atlantia  ATL.MI,$15.77 B,$19.28,-0.78%,,🇮🇹 Italy,ATASY,True
